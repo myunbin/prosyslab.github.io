@@ -44,7 +44,6 @@ layout: archive
   <section id="{{ author_name | slugify | downcase }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ author_name }}</h2>
     <div class="entries-{{ entries_layout }}">
-      {% assign author_id = author[0] %}
       {% assign posts = site.posts | where: "author", author_id %}
       {% for post in posts %}
         {% include archive-single-author.html type=entries_layout %}
