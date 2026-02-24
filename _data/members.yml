@@ -28,7 +28,31 @@ phd:
     homepage: https://prosys.kaist.ac.kr/home/sujinjang
     email: sujin0529@kaist.ac.kr
 
+  - name: Dongjae Lee
+    name-korean: 이동재
+    info: PhD Student
+    photo: dongjae.jpg
+    homepage: https://prosys.kaist.ac.kr/home/dongjaelee
+    email: dongjae.lee00@kaist.ac.kr
+
 master:
+  - name: Bongjun Jang
+    name-korean: 장봉준
+    info: Master Student
+    photo: bongjun.jpg
+    homepage: https://prosys.kaist.ac.kr/home/bongjunjang
+    email: bongjun.jang@kaist.ac.kr
+
+alumni:
+  - name: Dongjae Lee
+    name-korean: 이동재
+    info: Master Student
+    photo: dongjae.jpg
+    homepage: https://prosys.kaist.ac.kr/home/dongjaelee
+    email: dongjae.lee00@kaist.ac.kr
+    occupation: Ph.D student at KAIST
+    award: Outstanding Master's Thesis Award, School of Computing, KAIST
+
   - name: Geon Park
     name-korean: 박건
     info: Master Student
@@ -43,21 +67,6 @@ master:
     homepage: https://prosys.kaist.ac.kr/home/jaehoonjang
     email: jaehoon.jang@kaist.ac.kr
 
-  - name: Dongjae Lee
-    name-korean: 이동재
-    info: Master Student
-    photo: dongjae.jpg
-    homepage: https://prosys.kaist.ac.kr/home/dongjaelee
-    email: dongjae.lee00@kaist.ac.kr
-
-  - name: Bongjun Jang
-    name-korean: 장봉준
-    info: Master Student
-    photo: bongjun.jpg
-    homepage: https://prosys.kaist.ac.kr/home/bongjunjang
-    email: bongjun.jang@kaist.ac.kr
-
-alumni:
   - name: Changgong Lee
     name-korean: 이창공
     info: M.S.

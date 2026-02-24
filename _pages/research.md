@@ -55,7 +55,7 @@ Funded by
 ## Robust and Reliable AI Systems
 We develop trustworthy AI systems for critical tasks such as automatic code generation and mobile agents.
 Our mission is to ensure the robustness and reliability of AI systems by leveraging program analysis and large language models:
-- [Safeguarding Mobile GUI Agent via Logic-based Action Verification](https://arxiv.org/abs/2503.18492v1), MobiCom 2025
+- [Safeguarding Mobile GUI Agent via Logic-based Action Verification]({{ site.url }}{{ site.baseurl }}/publications/mobicom25.pdf), MobiCom 2025
 
 Funded by
 &nbsp;
